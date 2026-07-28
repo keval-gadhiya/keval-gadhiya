@@ -13,19 +13,19 @@
 
 ### Selected Work
 
-<table width="100%">
+<table>
   <thead>
     <tr>
-      <th align="left">Project</th>
-      <th align="left">Tech</th>
-      <th align="center">Impact</th>
+      <th width="420" align="left">Project</th>
+      <th width="320" align="left">Tech</th>
+      <th width="220" align="center">Impact</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Arc Design System</strong> · Upstox</td>
-      <td><code>Tokens</code> <code>Figma</code> <code>React</code></td>
-      <td align="center">Millions of users</td>
+      <td width="420"><strong>Arc Design System</strong> · Upstox</td>
+      <td width="320"><code>Tokens</code> <code>Figma</code> <code>React</code></td>
+      <td width="220" align="center">Millions of users</td>
     </tr>
     <tr>
       <td><strong>Figma Plugin Suite</strong> · 4 plugins</td>
