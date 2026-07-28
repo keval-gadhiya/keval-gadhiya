@@ -11,15 +11,6 @@
 
 <br/>
 
-<table align="center" border="0">
-<tr>
-<td width="38%" align="center" valign="middle">
-
-<img src="./assets/profile-card.svg?v=3" alt="Keval Gadhiya ID badge" width="330"/>
-
-</td>
-<td width="62%" valign="middle">
-
 ### Selected Work
 
 | Project | Tech | Impact |
@@ -33,10 +24,6 @@
 <br/>
 
 > *"I don't just design screens — I ship the system."*
-
-</td>
-</tr>
-</table>
 
 <br/>
 
