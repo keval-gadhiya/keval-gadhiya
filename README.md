@@ -54,6 +54,7 @@
 
 <div align="center">
 
+<!-- HIDDEN FOR NOW: Stats & Graphs + trophies
 ### Stats & Graphs
 
 <img src="./assets/metrics.svg?v=3" alt="Impact Stats" height="185"/>
@@ -72,6 +73,7 @@
 <img src="./assets/achievements.svg?v=3" alt="Trophies" width="95%"/>
 
 <br/><br/>
+-->
 
 ### Watch the snake eat my contributions
 
