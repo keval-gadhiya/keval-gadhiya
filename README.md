@@ -13,13 +13,42 @@
 
 ### Selected Work
 
-| Project | Tech | Impact |
-|:---|:---|:---:|
-| **Arc Design System** · Upstox | `Tokens` `Figma` `React` | Millions of users |
-| **Figma Plugin Suite** · 4 plugins | `TypeScript` `Figma API` | ~60% less ops |
-| **[ZenTara Design System](https://zentara-design.framer.website/)** | `Figma` `Tokens` `Docs` | 100+ components |
-| **React + Flutter Library** | `React` `Flutter` `TS` | ~40% fewer bugs |
-| **Gov + Fintech Apps** · 15+ | `WCAG 2.1` `Multi-platform` | Production |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Project</th>
+      <th align="left">Tech</th>
+      <th align="center">Impact</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Arc Design System</strong> · Upstox</td>
+      <td><code>Tokens</code> <code>Figma</code> <code>React</code></td>
+      <td align="center">Millions of users</td>
+    </tr>
+    <tr>
+      <td><strong>Figma Plugin Suite</strong> · 4 plugins</td>
+      <td><code>TypeScript</code> <code>Figma API</code></td>
+      <td align="center">~60% less ops</td>
+    </tr>
+    <tr>
+      <td><strong><a href="https://zentara-design.framer.website/">ZenTara Design System</a></strong></td>
+      <td><code>Figma</code> <code>Tokens</code> <code>Docs</code></td>
+      <td align="center">100+ components</td>
+    </tr>
+    <tr>
+      <td><strong>React + Flutter Library</strong></td>
+      <td><code>React</code> <code>Flutter</code> <code>TS</code></td>
+      <td align="center">~40% fewer bugs</td>
+    </tr>
+    <tr>
+      <td><strong>Gov + Fintech Apps</strong> · 15+</td>
+      <td><code>WCAG 2.1</code> <code>Multi-platform</code></td>
+      <td align="center">Production</td>
+    </tr>
+  </tbody>
+</table>
 
 <br/>
 
