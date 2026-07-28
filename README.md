@@ -23,10 +23,6 @@
 
 <br/>
 
-> *"I don't just design screens — I ship the system."*
-
-<br/>
-
 <div align="center">
 
 ### Stats & Graphs
